@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\Var1.exe
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\Var1.deps.json
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\Var1.runtimeconfig.json
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\Var1.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\Var1.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\Var1.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\CWLibrary.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\bin\Debug\netcoreapp3.1\CWLibrary.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\Var1\obj\Debug\netcoreapp3.1\Var1.genruntimeconfig.cache

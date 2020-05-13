@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\bin\Debug\netstandard2.0\CWLibrary.deps.json
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\bin\Debug\netstandard2.0\CWLibrary.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\bin\Debug\netstandard2.0\CWLibrary.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\obj\Debug\netstandard2.0\CWLibrary.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\obj\Debug\netstandard2.0\CWLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\obj\Debug\netstandard2.0\CWLibrary.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\obj\Debug\netstandard2.0\CWLibrary.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\obj\Debug\netstandard2.0\CWLibrary.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var1\CWLibrary\obj\Debug\netstandard2.0\CWLibrary.pdb
