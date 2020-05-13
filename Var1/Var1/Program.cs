@@ -44,25 +44,35 @@ namespace Var1
         }
         static void Main(string[] args)
         {
-            int n = ReadInt();
             string path = "dictionary.txt";
-            File.WriteAllText(path, ""); //обновляем файл
-            string[] lines = new string[n];
-            for (int i = 0; i < n; i++)
+            try
             {
-                lines[i] = GetStr();
-            }
-            File.AppendAllLines(path, lines); //добавляем в файл
+                int n = ReadInt();
+                
+                File.WriteAllText(path, ""); //обновляем файл
+                string[] lines = new string[n];
+                for (int i = 0; i < n; i++)
+                {
+                    lines[i] = GetStr();
+                }
+                File.AppendAllLines(path, lines); //добавляем в файл
 
+            }
+            catch (ArgumentException e ) { Console.WriteLine(e.Message); }
+            catch (IOException e ) { Console.WriteLine(e.Message); }
+            catch (Exception e ) { Console.WriteLine(e.Message); }
+
+            try
+            {
+                List<Pair<string, string>> lst = GetPairs(path);
+                Dictionary dict = new Dictionary(lst);
+
+                dict.MySerialize("out.bin"); //сериализация
+                Dictionary dict2 = Dictionary.MyDeserialize("out.bin");
             
 
-            List<Pair<string, string>> lst = GetPairs(path);
-            Dictionary dict = new Dictionary(lst);
 
-            dict.MySerialize("out.bin"); //сериализация
-            Dictionary dict2 = Dictionary.MyDeserialize("out.bin");
-
-            foreach(var el in dict2)
+            foreach (var el in dict2)
             {
                 Console.WriteLine(el);
             }
@@ -73,6 +83,10 @@ namespace Var1
             {
                 Console.WriteLine(el);
             }
+            }
+            catch (ArgumentException e) { Console.WriteLine(e.Message); }
+            catch (IOException e) { Console.WriteLine(e.Message); }
+            catch (Exception e) { Console.WriteLine(e.Message); }
         }
     }
 }
